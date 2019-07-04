@@ -71,6 +71,12 @@ const INITIAL_TOKENS_CONTEXT = {
       [DECIMALS]: 8,
       [EXCHANGE_ADDRESS]: '0x1C6c712b1F4a7c263B1DBd8F97fb447c945d3b9a'
     },
+    '0x7d3cb11f8c13730c24d01826d8f2005f0e1b348f': {
+      [NAME]: 'COS',
+      [SYMBOL]: 'COS',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0x7F9A00BB057424b9B1382591cfb8761d9B08a434'
+    },    
     '0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359': {
       [NAME]: 'Dai Stablecoin v1.0',
       [SYMBOL]: 'DAI',
@@ -106,6 +112,12 @@ const INITIAL_TOKENS_CONTEXT = {
       [SYMBOL]: 'GEN',
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0x26Cc0EAb6Cb650B0Db4D0d0dA8cB5BF69F4ad692'
+    },
+    '0x150b0b96933B75Ce27af8b92441F8fB683bF9739': {
+      [NAME]: 'Dragonereum Gold',
+      [SYMBOL]: 'GOLD',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0x7b1C3192eFa401eA37951feDC8007BcbEc2DBB6d'
     },
     '0x6810e776880C02933D47DB1b9fc05908e5386b96': {
       [NAME]: 'Gnosis Token',
@@ -148,6 +160,12 @@ const INITIAL_TOKENS_CONTEXT = {
       [SYMBOL]: 'HOT',
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0xd4777E164c6C683E10593E08760B803D58529a8E'
+    },
+    '0x80fB784B7eD66730e8b1DBd9820aFD29931aab03': {
+      [NAME]: 'Aave (ETHLend) Token',
+      [SYMBOL]: 'LEND',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0xcaA7e4656f6A2B59f5f99c745F91AB26D1210DCe'
     },
     '0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4': {
       [NAME]: 'Liquidity.Network Token',
@@ -215,6 +233,12 @@ const INITIAL_TOKENS_CONTEXT = {
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0xC040d51b07Aea5d94a89Bc21E8078B77366Fc6C7'
     },
+    '0x88652845a5495983b70aebbf25102361552d5e54': {
+      [NAME]: 'Photochain Token',
+      [SYMBOL]: 'PHT',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0x213988470530c2c098E6f22F15437930CDBCca26'
+    },
     '0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d': {
       [NAME]: 'Pinakion',
       [SYMBOL]: 'PNK',
@@ -257,11 +281,23 @@ const INITIAL_TOKENS_CONTEXT = {
       [DECIMALS]: 8,
       [EXCHANGE_ADDRESS]: '0x394e524b47A3AB3D3327f7fF6629dC378c1494a3'
     },
+    '0x9469d013805bffb7d3debe5e7839237e535ec483': {
+      [NAME]: 'Evolution Land Global Token',
+      [SYMBOL]: 'RING',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0xebd8aa50b26bfa63007d61eba777a9dde7e43c64'
+    },
     '0x607F4C5BB672230e8672085532f7e901544a7375': {
       [NAME]: 'iEx.ec Network Token',
       [SYMBOL]: 'RLC',
       [DECIMALS]: 9,
       [EXCHANGE_ADDRESS]: '0xA825CAE02B310E9901b4776806CE25db520c8642'
+    },
+    '0xb4efd85c19999d84251304bda99e90b92300bd93': {
+      [NAME]: 'Rocket Pool',
+      [SYMBOL]: 'RPL',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0x3fb2f18065926ddb33e7571475c509541d15da0e'
     },
     '0x4156D3342D5c385a87D264F90653733592000581': {
       [NAME]: 'Salt',
@@ -335,6 +371,12 @@ const INITIAL_TOKENS_CONTEXT = {
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0x8dE0d002DC83478f479dC31F76cB0a8aa7CcEa17'
     },
+     '0x24dcc881e7dd730546834452f21872d5cb4b5293': {
+      [NAME]: 'Data Transaction Token',
+      [SYMBOL]: 'XD',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0xb7cf1e1ea55572713feeec025d7cf56b3c6c6b6d'
+    },   
     '0xE41d2489571d322189246DaFA5ebDe1F4699F498': {
       [NAME]: '0x Protocol Token',
       [SYMBOL]: 'ZRX',
