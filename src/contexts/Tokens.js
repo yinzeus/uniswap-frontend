@@ -53,6 +53,18 @@ const INITIAL_TOKENS_CONTEXT = {
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0x87d80DBD37E551F58680B4217b23aF6a752DA83F'
     },
+    '0xc06aec5191be16b94ffc97b6fc01393527367365': {
+      [NAME]: 'BTC ETH Equal Weight Set',
+      [SYMBOL]: 'BTCETH5050',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0x539f7952f7b21c48aff332cd5d9cf6e28eba290f'
+    },    
+    '0x20649d97b1393105cf92a5083fd2aff7c99ebe56': {
+      [NAME]: 'BTC Range Bound Low Volatility',
+      [SYMBOL]: 'BTCLOVOL',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0xe2e496e3fc550b68feeeddad7db42d7063e6729e'
+    },
     '0x26E75307Fc0C021472fEb8F727839531F112f317': {
       [NAME]: 'Crypto20',
       [SYMBOL]: 'C20',
@@ -95,6 +107,12 @@ const INITIAL_TOKENS_CONTEXT = {
       [DECIMALS]: 0,
       [EXCHANGE_ADDRESS]: '0x4ac2ccebac7b96f1e66fbb7049c740a8ca8ef78d'
     },
+     '0x585c2cf94c41b528ec7329cbc3cde3c4f8d268db': {
+      [NAME]: 'ETH Range Bound Low Volatility',
+      [SYMBOL]: 'ETHLOVOL',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0x10c4be5806878f78e6179af6d09d035bbdab2ec2'
+    },    
     '0x4946Fcea7C692606e8908002e55A582af44AC121': {
       [NAME]: 'FOAM Token',
       [SYMBOL]: 'FOAM',
