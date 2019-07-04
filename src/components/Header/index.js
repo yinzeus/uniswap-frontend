@@ -45,7 +45,7 @@ export default function Header() {
           </span>
 
           <Link id="link" href="https://uniswap.io">
-            <h1 id="title">Uniswap</h1>
+            <h1 id="title">Uniswap / BETA INSTANCE</h1>
           </Link>
         </Title>
       </HeaderElement>
