@@ -233,6 +233,12 @@ const INITIAL_TOKENS_CONTEXT = {
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0x2C4Bd064b998838076fa341A83d007FC2FA50957'
     },
+    '0xba23485a04b897c957918fde2dabd4867838140b': {
+      [NAME]: 'Market Protocol Token',
+      [SYMBOL]: 'MKT',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0x7D6fa7B0a7deC3C0758f0B57Bb446f4Cee70D330'
+    },    
     '0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e': {
       [NAME]: 'Modum Token',
       [SYMBOL]: 'MOD',
