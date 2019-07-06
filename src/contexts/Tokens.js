@@ -353,6 +353,12 @@ const INITIAL_TOKENS_CONTEXT = {
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0x4e395304655F0796bc3bc63709DB72173b9DdF98'
     },
+    '0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC': {
+      [NAME]: 'StorjToken',
+      [SYMBOL]: 'STORJ',
+      [DECIMALS]: 8,
+      [EXCHANGE_ADDRESS]: '0xA7298541E52f96d42382eCBe4f242cBcBC534d02'
+    },    
     '0x0cbe2df57ca9191b64a7af3baa3f946fa7df2f25': {
       [NAME]: 'Synth sUSD',
       [SYMBOL]: 'sUSD',
